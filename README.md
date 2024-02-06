@@ -5,17 +5,18 @@
 
 - 🔭 I’m currently working on [Movie Recommender System](https://github.com/d-pamneja/Movie_Recommender)
 
-- 🌱 I’m currently learning **Web Development, DSA and ML/AI**
+- 🌱 I’m currently learning **ML/AI, DSA and Web Development**
 
-- 📫 How to reach me **dpamneja@gmail.com**
+- 📫 Reach out to me [here](mailto:dpamneja@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nevdVZY4RfR0PvgL8y4QJcjSVJZL_h_T/view?usp=share_link](https://drive.google.com/file/d/1nevdVZY4RfR0PvgL8y4QJcjSVJZL_h_T/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nevdVZY4RfR0PvgL8y4QJcjSVJZL_h_T/view?usp=share_link).
 
 - ⚡ Fun fact **I could probably watch any movie without being judgemental**
-
+<!----
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-pamneja&show_icons=true&locale=en&layout=compact" alt="d-pamneja" /></p>
 
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-pamneja&show_icons=true&locale=en" alt="d-pamneja" /></p>
+--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-pamneja&" alt="d-pamneja" /></p>
