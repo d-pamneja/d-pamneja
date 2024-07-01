@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
 
-- 🔭 I’m currently working on [Movie Recommender System](https://github.com/d-pamneja/Movie_Recommender)
+- 🔭 I’m currently working on [Movie Recommender System](https://github.com/d-pamneja/Chitra_Movie_Bot)
 
 - 🌱 I’m currently learning **ML/AI, DSA and Web Development**
 
