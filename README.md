@@ -31,8 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-pamneja&show_icons=true&locale=en&layout=compact" alt="d-pamneja" /></p>
 
-<!---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-pamneja&show_icons=true&locale=en" alt="d-pamneja" /></p>
---->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-pamneja&" alt="d-pamneja" /></p>
