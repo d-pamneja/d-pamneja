@@ -2,9 +2,15 @@
 <h3 align="center">Analytical and detail-oriented Machine Learning enthusiast, seeking a challenging role in a forward-thinking organization to apply my precision-focused approach in contributing to cutting-edge AI, Deep Learning, and Machine Learning projects.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=3&column=3" alt="d-pamneja" /></a> </p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=3&column=3" alt="d-pamneja" />
+    </a>
+  </p>
+  <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
+</div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dpamneja?theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
 
