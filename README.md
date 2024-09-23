@@ -20,6 +20,7 @@
 </table>
 
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=dpamneja)](https://medium.com/@dpamneja)
 
 
 
