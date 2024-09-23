@@ -6,7 +6,7 @@
   <tr>
     <td style="text-align: left; vertical-align: top; border: none;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=2&column=4" alt="d-pamneja" style="max-width: 100%; height: auto;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=4" alt="d-pamneja" style="max-width: 100%; height: auto;" />
       </a>
     </td>
     <td style="text-align: right; vertical-align: top; border: none;">
