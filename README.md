@@ -8,19 +8,18 @@
       <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=9" alt="d-pamneja" style="max-width: 100%; height: auto;" />
     </a>
   </div>
-  <div style="flex: 2; max-width: 40%; display: flex; flex-direction: column; justify-content: space-between;">
-    <div style="flex: 7; display: flex; justify-content: center; align-items: center;">
-      <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
-    </div>
-    <div style="flex: 3; display: flex; justify-content: center; align-items: center;">
-      <a href="https://medium.com/@dpamneja">
-        <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="max-width: 100%; height: auto;" />
-      </a>
-    </div>
-  </div>
 </div>
 
-
+<div style="display: flex; justify-content: space-between; margin-top: 50px;margin-bottom: 50px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <a href="https://medium.com/@dpamneja">
+      <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
+</div>
 
 
 
