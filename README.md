@@ -5,7 +5,7 @@
 <div style="display: flex; width: 100%; height: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
   <div style="flex: 3; max-width: 60%; display: flex; justify-content: center; align-items: center; border-right: 1px solid #ccc;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=3" alt="d-pamneja" style="max-width: 100%; height: auto;" />
+      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=5" alt="d-pamneja" style="max-width: 100%; height: auto;" />
     </a>
   </div>
   <div style="flex: 2; max-width: 40%; display: flex; flex-direction: column; justify-content: space-between;">
