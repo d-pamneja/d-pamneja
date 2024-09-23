@@ -21,6 +21,9 @@
   </div>
 </div>
 
+## Profile Summary
+
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-pamneja&theme=tokyonight)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
