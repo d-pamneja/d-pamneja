@@ -2,23 +2,24 @@
 <h3 align="center">Analytical and detail-oriented Machine Learning enthusiast, seeking a challenging role in a forward-thinking organization to apply my precision-focused approach in contributing to cutting-edge AI, Deep Learning, and Machine Learning projects.</h3>
 
 
-<div style="display: flex; width: 100%; margin: 10px;">
-  <div style="flex: 3; max-width: 60%; margin-right: 10px;">
+<div style="display: flex; width: 100%; height: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
+  <div style="flex: 3; max-width: 60%; display: flex; justify-content: center; align-items: center; border-right: 1px solid #ccc;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=4" alt="d-pamneja" style="width: 100%; height: auto;" />
+      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=4" alt="d-pamneja" style="max-width: 100%; height: auto;" />
     </a>
   </div>
-  <div style="flex: 2; max-width: 40%; display: flex; flex-direction: column;">
-    <div style="flex: 7; margin-bottom: 10px;">
-      <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="width: 100%; height: auto;" />
+  <div style="flex: 2; max-width: 40%; display: flex; flex-direction: column; justify-content: space-between;">
+    <div style="flex: 7; display: flex; justify-content: center; align-items: center;">
+      <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 3; display: flex; justify-content: center; align-items: center;">
       <a href="https://medium.com/@dpamneja">
-        <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="max-width: 100%; height: auto;" />
       </a>
     </div>
   </div>
 </div>
+
 
 
 
