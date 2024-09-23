@@ -6,7 +6,7 @@
   <tr>
     <td style="text-align: left; vertical-align: top; border: none;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=3&column=3" alt="d-pamneja" style="max-width: 100%; height: auto;" />
+        <img src="https://profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=3&column=3" alt="d-pamneja" style="max-width: 100%; height: auto;" />
       </a>
     </td>
     <td style="text-align: right; vertical-align: top; border: none;">
@@ -15,9 +15,14 @@
   </tr>
   <tr>
     <td style="text-align: left; vertical-align: bottom; border: none;"></td>
-    <td style="text-align: right; vertical-align: bottom; border: none;"></td>
+    <td style="text-align: right; vertical-align: bottom; border: none;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31szthk5ger2ndez75zgiavpzq2q&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31szthk5ger2ndez75zgiavpzq2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="max-width: 100%; height: auto;" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
