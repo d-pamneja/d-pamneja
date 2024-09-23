@@ -2,26 +2,21 @@
 <h3 align="center">Analytical and detail-oriented Machine Learning enthusiast, seeking a challenging role in a forward-thinking organization to apply my precision-focused approach in contributing to cutting-edge AI, Deep Learning, and Machine Learning projects.</h3>
 
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; vertical-align: top; border: none;">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=4" alt="d-pamneja" style="max-width: 100%; height: auto;" />
-      </a>
-    </td>
-    <td style="text-align: right; vertical-align: top; border: none;">
-      <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: left; vertical-align: bottom; border: none;"></td>
-    <td style="text-align: right; vertical-align: bottom; border: none;"></td>
-  </tr>
-</table>
-
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=dpamneja)](https://medium.com/@dpamneja)
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; flex-wrap: wrap;">
+  <div style="flex: 1; max-width: 45%; margin: 10px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=5&column=4" alt="d-pamneja" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+  <div style="flex: 1; max-width: 45%; margin: 10px;">
+    <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1; max-width: 45%; margin: 10px; text-align: right;">
+    <a href="https://medium.com/@dpamneja">
+      <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+</div>
 
 
 
