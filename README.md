@@ -25,6 +25,7 @@
 
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-pamneja&theme=tokyonight)
 
+![Language Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d-pamneja&theme=2077&exclude=jupyter%20notebook)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
 
