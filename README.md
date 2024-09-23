@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-pamneja&&theme=juicyfresh&margin-w=15&margin-h=15&row=3&column=3" alt="d-pamneja" /></a> </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dpamneja)](https://leetcode.com/u/dpamneja/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dpamneja)](https://github.com/KnlnKS/leetcode-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
 
