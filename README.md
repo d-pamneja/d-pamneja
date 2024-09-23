@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dhruv Pamneja</h1>
+![Header](./github-header-image.png)
 <h3 align="center">Analytical and detail-oriented Machine Learning enthusiast, seeking a challenging role in a forward-thinking organization to apply my precision-focused approach in contributing to cutting-edge AI, Deep Learning, and Machine Learning projects.</h3>
 
 
