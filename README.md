@@ -10,11 +10,11 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 50px;margin-bottom: 50px;">
+<!---<div style="display: flex; justify-content: space-between; margin-top: 50px;margin-bottom: 50px;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
   </div>
-</div>
+</div>-->
 
 
 ## Profile Summary
