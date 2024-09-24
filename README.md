@@ -14,11 +14,6 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://leetcard.jacoblin.cool/dpamneja?theme=dark" alt="Leetcode Stats" style="max-width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <a href="https://medium.com/@dpamneja">
-      <img src="https://github-readme-medium.vercel.app/?username=dpamneja" alt="Omid Nikrah Medium" style="max-width: 100%; height: auto;" />
-    </a>
-  </div>
 </div>
 
 ## Profile Summary
