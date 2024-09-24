@@ -29,17 +29,13 @@
 
 - 🔭 I’m currently working on [Gemini Powered Movie Recommender System](https://github.com/d-pamneja/Chitra_Movie_Bot)
 
-- 🌱 I’m currently learning **ML/AI, DSA and Web Development**
+- 🌱 I’m currently learning **AI and Full Stack Development in MERN**
 
 - 📫 Reach out to me [here](mailto:dpamneja@gmail.com)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1nevdVZY4RfR0PvgL8y4QJcjSVJZL_h_T/view?usp=share_link).
 
-- ⚡ Fun fact **I could probably watch any movie without being judgemental**
-<!----
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I could probably watch any movie or read a book without being judgemental**
 
 
 <h3 align="left">Connect with me:</h3>
