@@ -24,7 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-pamneja&label=Profile%20views&color=0e75b6&style=flat" alt="d-pamneja" /> </p>
 
-- 🔭 I’m currently working on [Gemini Powered Movie Recommender System](https://github.com/d-pamneja/Chitra_Movie_Bot)
+- 🔭 I’m currently working at [Lamatic AI](https://github.com/Lamatic)
 
 - 🌱 I’m currently learning **AI and Full Stack Development in MERN**
 
@@ -52,6 +52,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-pamneja&show_icons=true&locale=en" alt="d-pamneja" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-pamneja&" alt="d-pamneja" /></p>
